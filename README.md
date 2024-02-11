@@ -1,7 +1,7 @@
 # ERC404GasEfficient
 Ideas around the new experimentations about Native Fractionned NFTs (ERC-20 and ERC-721 mix).
 
-This repo contains the base [ERC404.sol)(src/ERC404/ERC404.sol) abstract contract, an experiment contract made by the "Pandora" team. This contract come from other previous ideas who hitted Ethereum mainnet.
+This repo contains the base [ERC404.sol](src/ERC404/ERC404.sol) abstract contract, an experiment contract made by the "Pandora" team. This contract come from other previous ideas who hitted Ethereum mainnet.
 One default was the large amount of gas processing when transferring tokens. It was because of the minting process of the NFTs consumming between 50k to 80k each. 
 If you had to mint 100 NFTs after one buy on Uniswap you had to pay several millions in gas. That is not effective.
 
